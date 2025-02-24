@@ -16,5 +16,7 @@ GNU AGPL v3.0
 Copyright © 2024 Hieu Pham. All rights reserved.
 ```
 
-See the LICENSE file for more details.
+See the LICENSE file for more details: [LICENSE](https://github.com/maituananh511/Replaced-tritonclient-with-trism./blob/main/LICENSE)
+
+Author: [Hieu Pham](https://github.com/hieupth)
 
