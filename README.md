@@ -1,7 +1,7 @@
-# Replaced-tritonclient-with-trism
+# Replaced tritonclient with trism
 
 ## Overview
-Replaced-tritonclient-with-trism is a project that replaces the Triton client with TRISM, providing enhanced performance and efficiency for machine learning model inference. This repository contains the necessary code and setup instructions to transition from Triton Client to TRISM seamlessly.
+Replaced tritonclient with trism is a project that replaces the Triton client with TRISM, providing enhanced performance and efficiency for machine learning model inference. This repository contains the necessary code and setup instructions to transition from Triton Client to TRISM seamlessly.
 
 ## Features
 - Improved inference performance
